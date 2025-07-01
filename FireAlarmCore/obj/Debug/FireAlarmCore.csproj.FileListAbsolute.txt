@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\bin\Debug\FireAlarmCore.dll
+C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\bin\Debug\FireAlarmCore.pdb
+C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\obj\Debug\FireAlarmCore.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\obj\Debug\FireAlarmCore.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\obj\Debug\FireAlarmCore.dll
+C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\obj\Debug\FireAlarmCore.pdb
