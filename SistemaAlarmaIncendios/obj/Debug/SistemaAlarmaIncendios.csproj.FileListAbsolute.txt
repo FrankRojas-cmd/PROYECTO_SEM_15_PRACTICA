@@ -8,3 +8,13 @@ C:\Users\USER\Desktop\SistemaAlarmaIncendios\SistemaAlarmaIncendios\obj\Debug\Si
 C:\Users\USER\Desktop\SistemaAlarmaIncendios\SistemaAlarmaIncendios\obj\Debug\SistemaA.DC08E36B.Up2Date
 C:\Users\USER\Desktop\SistemaAlarmaIncendios\SistemaAlarmaIncendios\obj\Debug\SistemaAlarmaIncendios.exe
 C:\Users\USER\Desktop\SistemaAlarmaIncendios\SistemaAlarmaIncendios\obj\Debug\SistemaAlarmaIncendios.pdb
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\bin\Debug\SistemaAlarmaIncendios.exe.config
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\bin\Debug\SistemaAlarmaIncendios.exe
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\bin\Debug\SistemaAlarmaIncendios.pdb
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\bin\Debug\FireAlarmCore.dll
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\bin\Debug\FireAlarmCore.pdb
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\obj\Debug\SistemaAlarmaIncendios.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\obj\Debug\SistemaAlarmaIncendios.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\obj\Debug\SistemaA.DC08E36B.Up2Date
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\obj\Debug\SistemaAlarmaIncendios.exe
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\SistemaAlarmaIncendios\obj\Debug\SistemaAlarmaIncendios.pdb

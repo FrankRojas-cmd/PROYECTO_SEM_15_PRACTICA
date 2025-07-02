@@ -4,3 +4,9 @@ C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\obj\Debug\FireAlarmCo
 C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\obj\Debug\FireAlarmCore.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\obj\Debug\FireAlarmCore.dll
 C:\Users\USER\Desktop\SistemaAlarmaIncendios\FireAlarmCore\obj\Debug\FireAlarmCore.pdb
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\FireAlarmCore\bin\Debug\FireAlarmCore.dll
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\FireAlarmCore\bin\Debug\FireAlarmCore.pdb
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\FireAlarmCore\obj\Debug\FireAlarmCore.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\FireAlarmCore\obj\Debug\FireAlarmCore.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\FireAlarmCore\obj\Debug\FireAlarmCore.dll
+C:\Users\USER\Source\Repos\PROYECTO_SEM_15_PRACTICA\FireAlarmCore\obj\Debug\FireAlarmCore.pdb

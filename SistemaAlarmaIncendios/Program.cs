@@ -43,7 +43,7 @@ namespace SistemaAlarmaIncendios // Sistema de Alarma Contra Incendios UPN
                 for (int i = 0; i < temps.Length; i++) // Bucle para mostrar las temperaturas de cada piso
                 {
                     string alerta = temps[i] >= 81 ? " [ALERTA!]" : ""; // Mensaje de alerta si la temperatura es igual o superior a 81°C
-                    Console.ForegroundColor = temps[i] >= 60 ? ConsoleColor.Red : ConsoleColor.White; // Cambiar color de texto a rojo si hay alerta, blanco si no
+                    Console.ForegroundColor = temps[i] >= 81 ? ConsoleColor.Red : ConsoleColor.White; // Cambiar color de texto a rojo si hay alerta, blanco si no
                     Console.WriteLine($"║ Piso {i + 1}: {temps[i]}°C{alerta}                          "); // Mostrar el número de piso y su temperatura
                     Console.ResetColor(); // Restablecer colores a los predeterminados
                     Console.WriteLine("║----------------------------------------║"); // Línea divisoria
